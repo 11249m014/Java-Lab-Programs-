@@ -1,0 +1,2 @@
+Hello! This is a simple text editor demo.
+Welcome to Java File I/O.

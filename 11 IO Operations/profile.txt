@@ -1,0 +1,3 @@
+Name: Ravi
+Age: 25
+Weight: 70kg
